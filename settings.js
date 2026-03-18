@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ["6282113821188"] // ['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
-global.packname = 'Bot WhatsApp'
+global.owner = ["628892155121"] // ['628','628'] 2 owner atau lebih
+global.author = 'azka-shen'
+global.botname = 'SHENX'
+global.packname = 'BotX'
 global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone Makasar
 global.locale = 'en' // Ganti pakai command .setlocale
 global.listprefix = ['+','!','.']
@@ -73,7 +73,7 @@ global.APIs = {
 	naze: 'https://api.naze.biz.id',
 }
 global.APIKeys = {
-	'https://api.naze.biz.id': 'nz-514094fb33',
+	'https://api.naze.biz.id': 'nz-55d9381817',
 }
 
 // Lainnya
